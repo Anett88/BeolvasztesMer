@@ -1,0 +1,8 @@
+NÉV;KOR;NEME;MUNKTÖLTÖTÉV
+Péter;21;F
+Pál;18;F
+Petra;22;L;2
+Éva;33;L;5
+Róbert;26;F;8
+Géza;35;F
+Xénia;22;L
